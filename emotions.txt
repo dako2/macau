@@ -1,0 +1,54 @@
+Emotions	Language	Face/Burst/Prosody
+Admiration	:white-check-mark:	:white-check-mark:
+Adoration	:white-check-mark:	:white-check-mark:
+Aesthetic Appreciation	:white-check-mark:	:white-check-mark:
+Amusement	:white-check-mark:	:white-check-mark:
+Anger	:white-check-mark:	:white-check-mark:
+Annoyance	:white-check-mark:	
+Anxiety	:white-check-mark:	:white-check-mark:
+Awe	:white-check-mark:	:white-check-mark:
+Awkwardness	:white-check-mark:	:white-check-mark:
+Boredom	:white-check-mark:	:white-check-mark:
+Calmness	:white-check-mark:	:white-check-mark:
+Concentration	:white-check-mark:	:white-check-mark:
+Confusion	:white-check-mark:	:white-check-mark:
+Contemplation	:white-check-mark:	:white-check-mark:
+Contempt	:white-check-mark:	
+Contentment	:white-check-mark:	:white-check-mark:
+Craving	:white-check-mark:	:white-check-mark:
+Desire	:white-check-mark:	:white-check-mark:
+Determination	:white-check-mark:	:white-check-mark:
+Disappointment	:white-check-mark:	:white-check-mark:
+Disapproval	:white-check-mark:	
+Disgust	:white-check-mark:	:white-check-mark:
+Distress	:white-check-mark:	:white-check-mark:
+Doubt	:white-check-mark:	:white-check-mark:
+Ecstasy	:white-check-mark:	
+Embarrassment	:white-check-mark:	:white-check-mark:
+Empathic Pain	:white-check-mark:	:white-check-mark:
+Enthusiasm	:white-check-mark:	
+Entrancement	:white-check-mark:	:white-check-mark:
+Envy	:white-check-mark:	:white-check-mark:
+Excitement	:white-check-mark:	:white-check-mark:
+Fear	:white-check-mark:	:white-check-mark:
+Gratitude	:white-check-mark:	
+Guilt	:white-check-mark:	:white-check-mark:
+Horror	:white-check-mark:	:white-check-mark:
+Interest	:white-check-mark:	:white-check-mark:
+Joy	:white-check-mark:	:white-check-mark:
+Love	:white-check-mark:	:white-check-mark:
+Nostalgia	:white-check-mark:	:white-check-mark:
+Pain	:white-check-mark:	:white-check-mark:
+Pride	:white-check-mark:	:white-check-mark:
+Realization	:white-check-mark:	:white-check-mark:
+Relief	:white-check-mark:	:white-check-mark:
+Romance	:white-check-mark:	:white-check-mark:
+Sadness	:white-check-mark:	:white-check-mark:
+Sarcasm	:white-check-mark:	
+Satisfaction	:white-check-mark:	:white-check-mark:
+Shame	:white-check-mark:	:white-check-mark:
+Surprise (negative)	:white-check-mark:	:white-check-mark:
+Surprise (positive)	:white-check-mark:	:white-check-mark:
+Sympathy	:white-check-mark:	:white-check-mark:
+Tiredness	:white-check-mark:	:white-check-mark:
+Triumph
