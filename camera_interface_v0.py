@@ -7,13 +7,6 @@ import time
 from dotenv import load_dotenv
 # Load environment variables from .env file
 load_dotenv()
-from utilities import Stringifier
-
-stringifier = Stringifier()
-for emotion_embedding in emotion_embeddings:
-    emotion_scores = [emotion["score"] for emotion in emotion_embedding]
-    text = stringifier.scores_to_text(emotion_scores)
-    print(text)
 
 async def analyze_frame(file_path, api_key, metadata_file):
     client = HumeStreamClient(api_key)

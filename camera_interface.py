@@ -6,10 +6,10 @@ from hume.models.config import FaceConfig
 import time
 import websockets
 import traceback
+import json
 from dotenv import load_dotenv
 # Load environment variables from .env file
 load_dotenv()
-from utilities import Stringifier, print_emotions
 
 async def analyze_frame(file_path = 'data', camera_index = 1):
     cam = cv2.VideoCapture(camera_index)
@@ -34,8 +34,9 @@ async def analyze_frame(file_path = 'data', camera_index = 1):
                     # Process the result if needed
                     # Write the result to the metadata file
                     print(result)
-                    with open("metadata.txt", "a") as metadata_file:
-                        metadata_file.write(f"{TEMP_FILE}: {result}\n")
+                    with open("metadata.jsonl", "a") as metadata_file:
+                        #metadata_file.write(f"{TEMP_FILE}: {result}\n")
+                        metadata_file.write(json.dumps({TEMP_FILE: result}) + '\n')
                         metadata_file.flush()  # Ensure the data is written immediately
                     await asyncio.sleep(1 / 3)
 
