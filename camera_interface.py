@@ -32,7 +32,7 @@ async def capture_and_analyze_video(camera_index=1):
     api_key = os.getenv("HUME_API_KEY")
 
     frame_count = 0  # Counter for naming saved frames
-    with open("results_metadata.txt", "a") as metadata_file:
+    with open("metadata.txt", "a") as metadata_file:
         while True:
             # Capture frame-by-frame
             ret, frame = cap.read()
@@ -54,7 +54,8 @@ async def capture_and_analyze_video(camera_index=1):
             # Display the resulting frame
             cv2.imshow('Camera Feed', frame)
 
-            #time.sleep(1)
+            time.sleep(3)
+
             # Check for 'q' key press to exit
             if cv2.waitKey(1) & 0xFF == ord('q'):
                 break
