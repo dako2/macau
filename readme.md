@@ -2,7 +2,12 @@ Theme: Entertainment, Emotion, Music, Art, Game, Self-expression ...
 
 (Action needed) Use Cases (Product): Somehow related to VR?????? Texas Holdem
 
+
 UI/UX software/hardware platform: Browser? VR/AR kit? iPhone? 777 Machine? some IoTs? or a big screen???
+1. I think Browser is a good step first (good to have a strong frontend webUI engineer)
+2. webxr, three.js, webgl...
+3. Themes: https://1955horsebit.gucci.com/#/handbags, https://lumalabs.ai/luma-web-library
+webxr, three.js, webgl...
 
 1. camera_interface.py ==> Camera to HUME API
 2. visualize.py ==> visualize the emotion (animation, small game, digital arts, sora ...??) 
