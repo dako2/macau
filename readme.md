@@ -8,6 +8,8 @@ UI/UX software/hardware platform: Browser? VR/AR kit? iPhone? 777 Machine? some 
 2. webxr, three.js, webgl...
 3. Themes: https://1955horsebit.gucci.com/#/handbags, https://lumalabs.ai/luma-web-library
 webxr, three.js, webgl...
+https://helloenjoy.itch.io/lights
+
 
 1. camera_interface.py ==> Camera to HUME API
 2. visualize.py ==> visualize the emotion (animation, small game, digital arts, sora ...??) 
