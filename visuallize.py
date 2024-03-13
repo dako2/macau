@@ -1,7 +1,6 @@
 import time
 from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
-#from utilities import 
 import json 
 from utilities import Stringifier, print_emotions
 
